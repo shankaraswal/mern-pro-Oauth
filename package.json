@@ -1,0 +1,27 @@
+{
+  "name": "jwt-authontication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankaraswal/mern-pro-Oauth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shankaraswal/mern-pro-Oauth/issues"
+  },
+  "homepage": "https://github.com/shankaraswal/mern-pro-Oauth#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2",
+    "passport": "^0.4.0",
+    "passport-google": "^0.3.0",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "devDependencies": {}
+}
